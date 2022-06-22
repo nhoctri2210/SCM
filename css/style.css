@@ -305,4 +305,11 @@
     #carouselpic{
     height: 300px !important;
 }
+
+#img-employee{
+    height: 300px;
+}
+}
+#img-employee{
+    height: 420px;
 }
